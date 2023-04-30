@@ -9,13 +9,16 @@ npm install
 ```
 npm run serve
 ```
+to start json server Api 
 
+```bash
+  json-server --watch db.json
+
+```
 ### Compiles and minifies for production
 ```
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
