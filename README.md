@@ -22,6 +22,8 @@ npm run build
 
 ![alt text](https://github.com/Peter2s/vueJs-labs-iti/blob/main/Screenshot%202023-04-30%20at%2010.01.23%20PM.png)
 
+![alt text](https://github.com/Peter2s/vueJs-labs-iti/blob/main/Screenshot%202023-04-30%20at%2010.03.13%20PM.png)
+
 
 
 
